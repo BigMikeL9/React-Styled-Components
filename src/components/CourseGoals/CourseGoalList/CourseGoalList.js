@@ -4,7 +4,7 @@ import CourseGoalItem from "../CourseGoalItem/CourseGoalItem";
 import "./CourseGoalList.css";
 
 const CourseGoalList = (props) => {
-  console.log(props);
+  // console.log(props);
 
   return (
     <ul className="goal-list">
